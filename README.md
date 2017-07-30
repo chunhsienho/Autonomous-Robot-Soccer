@@ -17,7 +17,7 @@ This is the structure for the whole project. The camera on the top of the field 
 
 your script and give the commend to the vehicle.
 
-![center image][image3]
+![center image][image1]
 
 The vehicle is demostrated as following with a jaw to catch the ball and bluetooth to recevie data from the computer.
 
